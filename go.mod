@@ -12,7 +12,7 @@ require (
 	github.com/go-openapi/swag v0.19.15
 	github.com/go-piv/piv-go v1.9.0
 	github.com/google/certificate-transparency-go v1.1.2
-	github.com/google/go-cmp v0.5.6
+	github.com/google/go-cmp v0.5.7
 	github.com/google/go-containerregistry v0.7.1-0.20211203164431-c75901cce627
 	github.com/google/go-containerregistry/pkg/authn/k8schain v0.0.0-20211215180950-ab77ea68f600
 	github.com/google/go-github/v39 v39.2.0
@@ -33,7 +33,7 @@ require (
 	github.com/xanzy/go-gitlab v0.54.3
 	golang.org/x/oauth2 v0.0.0-20211104180415-d3ed0bb246c8
 	golang.org/x/term v0.0.0-20210927222741-03fcf44c2211
-	google.golang.org/api v0.64.0
+	google.golang.org/api v0.70.0
 	k8s.io/api v0.22.5
 	k8s.io/apimachinery v0.22.5
 	k8s.io/client-go v0.22.5
@@ -42,6 +42,7 @@ require (
 )
 
 require (
+	cloud.google.com/go/iam v0.2.0 // indirect
 	github.com/bytecodealliance/wasmtime-go v0.32.0 // indirect
 	github.com/form3tech-oss/jwt-go v3.2.5+incompatible // indirect
 	github.com/go-logr/logr v1.2.2 // indirect
