@@ -12,7 +12,7 @@ require (
 	github.com/go-openapi/swag v0.19.15
 	github.com/go-piv/piv-go v1.9.0
 	github.com/google/certificate-transparency-go v1.1.2
-	github.com/google/go-cmp v0.5.6
+	github.com/google/go-cmp v0.5.8
 	github.com/google/go-containerregistry v0.7.1-0.20211203164431-c75901cce627
 	github.com/google/go-containerregistry/pkg/authn/k8schain v0.0.0-20211215180950-ab77ea68f600
 	github.com/google/go-github/v39 v39.2.0
@@ -28,11 +28,11 @@ require (
 	github.com/sigstore/sigstore v1.0.2-0.20211223185235-75bc699f921d
 	github.com/spf13/cobra v1.3.0
 	github.com/spf13/viper v1.10.1
-	github.com/stretchr/testify v1.7.0
+	github.com/stretchr/testify v1.8.1
 	github.com/theupdateframework/go-tuf v0.0.0-20211213174152-470b5ab00139
-	github.com/xanzy/go-gitlab v0.54.3
-	golang.org/x/oauth2 v0.0.0-20211104180415-d3ed0bb246c8
-	golang.org/x/term v0.0.0-20210927222741-03fcf44c2211
+	github.com/xanzy/go-gitlab v0.78.0
+	golang.org/x/oauth2 v0.3.0
+	golang.org/x/term v0.3.0
 	google.golang.org/api v0.64.0
 	k8s.io/api v0.22.5
 	k8s.io/apimachinery v0.22.5
