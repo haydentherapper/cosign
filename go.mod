@@ -10,7 +10,7 @@ require (
 	github.com/go-openapi/runtime v0.21.0
 	github.com/go-openapi/strfmt v0.21.1
 	github.com/go-openapi/swag v0.19.15
-	github.com/go-piv/piv-go v1.9.0
+	github.com/go-piv/piv-go v1.10.0
 	github.com/google/certificate-transparency-go v1.1.2
 	github.com/google/go-cmp v0.5.6
 	github.com/google/go-containerregistry v0.7.1-0.20211203164431-c75901cce627
