@@ -28,7 +28,7 @@ require (
 	github.com/sigstore/sigstore v1.0.2-0.20211223185235-75bc699f921d
 	github.com/spf13/cobra v1.3.0
 	github.com/spf13/viper v1.10.1
-	github.com/stretchr/testify v1.7.0
+	github.com/stretchr/testify v1.8.2
 	github.com/theupdateframework/go-tuf v0.0.0-20211213174152-470b5ab00139
 	github.com/xanzy/go-gitlab v0.54.3
 	golang.org/x/oauth2 v0.0.0-20211104180415-d3ed0bb246c8
