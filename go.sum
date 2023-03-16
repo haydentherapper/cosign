@@ -210,8 +210,6 @@ github.com/OneOfOne/xxhash v1.2.8 h1:31czK/TI9sNkxIKfaUfGlU47BAxQ0ztGgd9vPyqimf8
 github.com/OneOfOne/xxhash v1.2.8/go.mod h1:eZbhyaAYD41SGSSsnmcpxVoRiQ/MPUTjUdIIOT9Um7Q=
 github.com/PaesslerAG/gval v1.0.0 h1:GEKnRwkWDdf9dOmKcNrar9EA1bz1z9DqPIO1+iLzhd8=
 github.com/PaesslerAG/gval v1.0.0/go.mod h1:y/nm5yEyTeX6av0OfKJNp9rBNj2XrGhAf5+v24IBN1I=
-github.com/PaesslerAG/gval v1.0.0/go.mod h1:y/nm5yEyTeX6av0OfKJNp9rBNj2XrGhAf5+v24IBN1I=
-github.com/PaesslerAG/jsonpath v0.1.0/go.mod h1:4BzmtoM/PI8fPO4aQGIusjGxGir2BzcV0grWtFzq1Y8=
 github.com/PaesslerAG/jsonpath v0.1.0/go.mod h1:4BzmtoM/PI8fPO4aQGIusjGxGir2BzcV0grWtFzq1Y8=
 github.com/PaesslerAG/jsonpath v0.1.1 h1:c1/AToHQMVsduPAa4Vh6xp2U0evy4t8SWp8imEsylIk=
 github.com/PaesslerAG/jsonpath v0.1.1/go.mod h1:lVboNxFGal/VwW6d9JzIy56bUsYAP6tH/x80vjnCseY=
@@ -800,8 +798,8 @@ github.com/go-openapi/validate v0.19.15/go.mod h1:tbn/fdOwYHgrhPBzidZfJC2MIVvs9G
 github.com/go-openapi/validate v0.20.1/go.mod h1:b60iJT+xNNLfaQJUqLI7946tYiFEOuE9E4k54HpKcJ0=
 github.com/go-openapi/validate v0.20.3 h1:GZPPhhKSZrE8HjB4eEkoYAZmoWA4+tCemSgINH1/vKw=
 github.com/go-openapi/validate v0.20.3/go.mod h1:goDdqVGiigM3jChcrYJxD2joalke3ZXeftD16byIjA4=
-github.com/go-piv/piv-go v1.9.0 h1:P6j2gjfP7zO7T3nCk/jwCgsvFRwB8shEqAJ4q85jgXc=
-github.com/go-piv/piv-go v1.9.0/go.mod h1:NZ2zmjVkfFaL/CF8cVQ/pXdXtuj110zEKGdJM6fJZZM=
+github.com/go-piv/piv-go v1.11.0 h1:5vAaCdRTFSIW4PeqMbnsDlUZ7odMYWnHBDGdmtU/Zhg=
+github.com/go-piv/piv-go v1.11.0/go.mod h1:NZ2zmjVkfFaL/CF8cVQ/pXdXtuj110zEKGdJM6fJZZM=
 github.com/go-playground/assert/v2 v2.0.1 h1:MsBgLAaY856+nPRTKrp3/OZK38U/wa0CcBYNjji3q3A=
 github.com/go-playground/assert/v2 v2.0.1/go.mod h1:VDjEfimB/XKnb+ZQfWdccd7VUvScMdVu0Titje2rxJ4=
 github.com/go-playground/locales v0.12.1/go.mod h1:IUMDtCfWo/w/mtMfIE/IG2K+Ey3ygWanZIBtBW0W2TM=
@@ -1647,7 +1645,6 @@ github.com/sigstore/fulcio v0.1.2-0.20211207184413-f4746cc4ff3d h1:IPM24VE576hL6
 github.com/sigstore/fulcio v0.1.2-0.20211207184413-f4746cc4ff3d/go.mod h1:4MU8ZIe1hJz85JUaYi7v1kIxG3z9t1T6I8Ae4KFjPV4=
 github.com/sigstore/rekor v0.3.1-0.20211211150321-b8eca1b71e0b h1:wgJRWgVd0ENsbhb1kSEk/nwh5pQ9JdpUgYw7jz4OHU8=
 github.com/sigstore/rekor v0.3.1-0.20211211150321-b8eca1b71e0b/go.mod h1:msxSFjTHSyqvb46svKXcvTIL5K39lqma91Gauu2Hj0Y=
-github.com/sigstore/sigstore v1.0.1/go.mod h1:1+krIdtuf81/fLC8mHPt/7uwYiOg7W8k/PAR7lzKW3w=
 github.com/sigstore/sigstore v1.0.1/go.mod h1:1+krIdtuf81/fLC8mHPt/7uwYiOg7W8k/PAR7lzKW3w=
 github.com/sigstore/sigstore v1.0.2-0.20211210190220-04746d994282/go.mod h1:SuM+QIHtnnR9eGsURRLv5JfxM6KeaU0XKA1O7FmLs4Q=
 github.com/sigstore/sigstore v1.0.2-0.20211223185235-75bc699f921d h1:r86VFZbqP/kLAt8CrN24JVw8pgKgJceLMFh//vneA6s=
