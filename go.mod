@@ -3,7 +3,7 @@ module github.com/sigstore/cosign
 go 1.16
 
 require (
-	cloud.google.com/go/storage v1.18.2
+	cloud.google.com/go/storage v1.27.0
 	cuelang.org/go v0.4.0
 	github.com/ThalesIgnite/crypto11 v1.2.5
 	github.com/cyberphone/json-canonicalization v0.0.0-20210823021906-dc406ceaf94b
@@ -12,7 +12,7 @@ require (
 	github.com/go-openapi/swag v0.19.15
 	github.com/go-piv/piv-go v1.9.0
 	github.com/google/certificate-transparency-go v1.1.2
-	github.com/google/go-cmp v0.5.6
+	github.com/google/go-cmp v0.5.9
 	github.com/google/go-containerregistry v0.7.1-0.20211203164431-c75901cce627
 	github.com/google/go-containerregistry/pkg/authn/k8schain v0.0.0-20211215180950-ab77ea68f600
 	github.com/google/go-github/v39 v39.2.0
@@ -28,12 +28,12 @@ require (
 	github.com/sigstore/sigstore v1.0.2-0.20211223185235-75bc699f921d
 	github.com/spf13/cobra v1.3.0
 	github.com/spf13/viper v1.10.1
-	github.com/stretchr/testify v1.7.0
+	github.com/stretchr/testify v1.8.2
 	github.com/theupdateframework/go-tuf v0.0.0-20211213174152-470b5ab00139
 	github.com/xanzy/go-gitlab v0.54.3
-	golang.org/x/oauth2 v0.0.0-20211104180415-d3ed0bb246c8
-	golang.org/x/term v0.0.0-20210927222741-03fcf44c2211
-	google.golang.org/api v0.64.0
+	golang.org/x/oauth2 v0.5.0
+	golang.org/x/term v0.5.0
+	google.golang.org/api v0.110.0
 	k8s.io/api v0.22.5
 	k8s.io/apimachinery v0.22.5
 	k8s.io/client-go v0.22.5
@@ -47,10 +47,9 @@ require (
 	github.com/go-logr/logr v1.2.2 // indirect
 	github.com/mattn/go-runewidth v0.0.13 // indirect
 	github.com/prometheus/procfs v0.7.3 // indirect
-	github.com/spiffe/go-spiffe/v2 v2.0.0-beta.10
+	github.com/spiffe/go-spiffe/v2 v2.1.3
 	github.com/urfave/cli v1.22.5 // indirect
 	go.opentelemetry.io/contrib v1.3.0 // indirect
-	go.opentelemetry.io/proto/otlp v0.11.0 // indirect
 	go.uber.org/goleak v1.1.12 // indirect
 	k8s.io/klog/v2 v2.30.0 // indirect
 	k8s.io/kube-openapi v0.0.0-20211110012726-3cc51fd1e909 // indirect
